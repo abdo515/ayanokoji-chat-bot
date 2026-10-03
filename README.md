@@ -7,3 +7,5 @@
 
 <h2>بعد ما نسخت التوكن روح الصقو هنا </h2>
 <img src="tut.png">
+
+<h1><a href = "https://abdo515.github.io/ayanokoji-chat-bot/"> رابط الموقع بعد اتمام التعليمات </a></h1>
